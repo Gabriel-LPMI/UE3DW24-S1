@@ -1,0 +1,5 @@
+<testExecutions version="1">
+<file path="tests/user.test.js">
+<testCase name="Test : Get all users responds with json" duration="222" />
+</file>
+</testExecutions>
