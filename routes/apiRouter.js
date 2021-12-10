@@ -10,7 +10,7 @@ exports.router = (function () {
     apiRouter.route('/users').get(usersCtrl.getAllUsers);
     apiRouter.route('/users/:id').get(usersCtrl.getUser);
     apiRouter.route('/updateuser').put(upload.array(), usersCtrl.updateUser);
-    apiRouter.route('/deleteuser').delete(upload.array(), usersCtrl.deleteUser);
+    apiRouter.route('/deleteuser/:id').delete(usersCtrl.deleteUser);
 
     return apiRouter;
 })();
