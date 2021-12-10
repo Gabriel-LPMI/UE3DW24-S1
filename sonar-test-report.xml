@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testExecutions version="1">
     <file path="/home/vagrant/backend-js/tests/user.test.js">
-        <testCase name="Test : Get all users responds with json" duration="242"/>
-        <testCase name="Test : Get a user with his id responds with json" duration="18"/>
-        <testCase name="Test : Create a user responds with json" duration="47"/>
-        <testCase name="Test : Update a user responds with json" duration="25"/>
-        <testCase name="Test : Delete a user responds with json" duration="17"/>
+        <testCase name="Test : Get all users responds with json" duration="586"/>
+        <testCase name="Test : Get a user with his id responds with json" duration="17"/>
+        <testCase name="Test : Create a user responds with json" duration="62"/>
+        <testCase name="Test : Update a user responds with json" duration="43"/>
+        <testCase name="Test : Delete a user responds with json" duration="38"/>
     </file>
 </testExecutions>

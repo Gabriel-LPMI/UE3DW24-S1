@@ -1,0 +1,6 @@
+projectKey=sonar-ue3dw24-gabriel-denajar
+serverUrl=http://20.101.67.93:9000
+serverVersion=7.3.0.15553
+dashboardUrl=http://20.101.67.93:9000/dashboard?id=sonar-ue3dw24-gabriel-denajar
+ceTaskId=AX2MURmKhm9jYp2OyYLk
+ceTaskUrl=http://20.101.67.93:9000/api/ce/task?id=AX2MURmKhm9jYp2OyYLk
